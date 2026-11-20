@@ -2,7 +2,7 @@
   'use strict';
 
   var config = window.BMPI_PWA_CONFIG || {};
-  var placeholder = 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE';
+  var placeholder = 'https://script.google.com/macros/s/AKfycbxXY53gPtkezoqycd3nIv-3zBh5TUeFylSulxkX2Zn_lN4Y5wGdHRVFnI38Uv8HLrll/exec';
   var setupScreen = document.getElementById('setup-screen');
   var appRoot = document.getElementById('app-root');
   var frame = document.getElementById('portal-frame');
