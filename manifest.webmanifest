@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "BMPI MBA Digital Study Portal",
+  "short_name": "BMPI MBA",
+  "description": "Learn Smart – Prepare Better – Achieve More. BM Professional Institute, Indore.",
+  "lang": "en-IN",
+  "start_url": "./index.html?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f4f7fc",
+  "theme_color": "#102a56",
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "./icons/bmpi-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/bmpi-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/bmpi-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "./icons/bmpi-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
