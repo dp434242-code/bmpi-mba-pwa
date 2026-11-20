@@ -5,5 +5,5 @@
  * Do not paste a spreadsheet URL or the Apps Script editor URL.
  */
 window.BMPI_PWA_CONFIG = Object.freeze({
-  portalUrl: 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE'
+  portalUrl: 'https://script.google.com/macros/s/AKfycbxXY53gPtkezoqycd3nIv-3zBh5TUeFylSulxkX2Zn_lN4Y5wGdHRVFnI38Uv8HLrll/exec'
 });
